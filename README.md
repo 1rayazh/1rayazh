@@ -1,67 +1,46 @@
-# Привет! Я Раяна (irayazh) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+# Привет! Я Раяна 👋
 
-### 👩‍💻 Frontend Developer | React & TypeScript Enthusiast
+### Frontend Developer | React & TypeScript
+
+Я создаю современные, адаптивные и производительные интерфейсы. Мой код — это сочетание чистоты TypeScript и гибкости React.
+
+---
+
+### 💻 Технологический стек
+
+**Frontend & Logic**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Верстка & Стили**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+### 🛠 Инструменты
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 📈 Статистика (GitHub)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=irayazh&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="irayazh" />
+<img src="https://github-readme-stats.vercel.app/api?username=irayazh&show_icons=true&theme=buefy&hide_border=true" alt="irayazh's GitHub stats" />
 </p>
 
 ---
 
-### 🚀 Обо мне
-Я занимаюсь созданием современных веб-приложений. Мой фокус — чистый код, типизация и удобный пользовательский интерфейс. Постоянно изучаю новые инструменты в экосистеме React.
-
-- ⚡ **Сейчас я изучаю:** Продвинутые паттерны React и Unit-тестирование.
-- 💬 **Спрашивайте меня о:** HTML, SCSS, JS, React и Redux.
-- 🔭 **Цель:** Стать Senior Frontend Developer и создавать масштабные продукты.
+### 📫 Как меня найти
+* **Email:** [rayanajung123@gmail.com](mailto:rayanajung123@gmail.com)
+* **Telegram:** [@твой_ник]
+* **LinkedIn:** [Ссылка на профиль]
 
 ---
-
-### 🛠 Технологический стек
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css,sass" width="48" height="48" alt="HTML/CSS" />
-      <br>Верстка
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js,ts" width="48" height="48" alt="JS/TS" />
-      <br>Языки
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react,redux" width="48" height="48" alt="React/Redux" />
-      <br>Фреймворки
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite,git,vscode" width="48" height="48" alt="Tools" />
-      <br>Инструменты
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Моя активность на GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irayazh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irayazh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=irayazh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Связаться со мной
-<p align="left">
-<a href="mailto:rayanajung123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://t.me/твой_ник" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</p>
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
