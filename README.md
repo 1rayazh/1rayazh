@@ -40,7 +40,6 @@
 
 ### 📫 Как меня найти
 * **Email:** [rayanajung123@gmail.com](mailto:rayanajung123@gmail.com)
-* **Telegram:** [@твой_ник]
-* **LinkedIn:** [Ссылка на профиль]
+* **Telegram:** @irayazh
 
 ---
