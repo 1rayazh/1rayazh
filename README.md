@@ -30,16 +30,8 @@
 
 ---
 
-### 📈 Статистика (GitHub)
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=irayazh&show_icons=true&theme=buefy&hide_border=true" alt="irayazh's GitHub stats" />
-</p>
-
----
-
 ### 📫 Как меня найти
 * **Email:** [rayanajung123@gmail.com](mailto:rayanajung123@gmail.com)
-* **Telegram:** @irayazh
+* **Bishkek, Kyrgyzstan** 📍
 
-
+---
